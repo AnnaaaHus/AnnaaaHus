@@ -19,7 +19,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,postman,html,cs,bootstrap,dotnet,docker,css,cpp,vscode,github,java,mysql,mongodb" />
-     /><br>
+  <br>
 </div>
 
 <br/>
