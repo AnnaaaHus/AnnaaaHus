@@ -18,8 +18,8 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,postman,dotnet,bootstrap,html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=javascript,cs,cpp,java,mysql,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,postman,html,cs,bootstrap,dotnet,docker,css,cpp,vscode,github,java,mysql,mongodb" />
+     /><br>
 </div>
 
 <br/>
